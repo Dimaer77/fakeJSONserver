@@ -188,7 +188,6 @@
             "seatNum": 5,
             "occupied": false,
             "select": false
-        },
-       
+        }
     ]
 }
